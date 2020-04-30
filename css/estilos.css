@@ -17,12 +17,14 @@ body
     color: white;
     font-weight: bold;
     margin: 0;
-    padding: 0.5em 0 0.5em 2em;
+    padding: 0.5em 0 0.5em 1em;
 }
 
 #cabecera #logo {
     width: 20px;
     vertical-align: middle;
+    margin-right: 10px;
+
 }
 
 #cabecera #tagline
